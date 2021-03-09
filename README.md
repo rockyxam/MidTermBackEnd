@@ -47,7 +47,7 @@ Ravshan Khamidov COM-18
 
 
 ## Home Page
-![](images/main.jpg)
+![Main](https://user-images.githubusercontent.com/49916341/110521054-7d493200-8139-11eb-924b-a1b3cc30f275.png)
 
 ## List Page
 ![](images/list.jpg)
