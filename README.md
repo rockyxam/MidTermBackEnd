@@ -38,7 +38,7 @@ https://youtu.be/elinRxV4oVo
 
 ## Github setup
 1. Use a github UI application. E.g. Source Tree
-2. Clone this repository to your workstation: https://github.com
+2. Clone this repository to your workstation: https://github.com/rockyxam/MidTermBackEnd.git
 3. Follow the instructions from this document to setup the environment on your local machine.
 
 
