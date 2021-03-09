@@ -12,7 +12,7 @@ IntelliJ, Maven, MySQL, Apache Tomcat
 This app manages many aspects of a university library system, including cataloging, search, circulation, and waiting list. The interface is web based, and the server needs to be hosted on the cloud, and is accessible from anywhere with Internet connection.
 
 ## My YouTube Channel for More instruction(Important to watch)  👇
-https://youtu.be/elinRxV4oVo
+https://youtu.be/qh8U8GVHS-o
 
 #### Cataloging
 
